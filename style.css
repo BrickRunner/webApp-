@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    padding: 20px;
+  }
+  .dark-theme {
+    background-color: #121212;
+    color: white;
+  }
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
